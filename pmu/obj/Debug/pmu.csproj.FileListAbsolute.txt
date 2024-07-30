@@ -1,0 +1,13 @@
+C:\Users\Chalman\Source\Repos\pmu\pmu\bin\Debug\pmu.exe.config
+C:\Users\Chalman\Source\Repos\pmu\pmu\bin\Debug\pmu.exe
+C:\Users\Chalman\Source\Repos\pmu\pmu\bin\Debug\pmu.pdb
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.csproj.AssemblyReference.cache
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.Pmu.resources
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.Properties.Resources.resources
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.csproj.GenerateResource.cache
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.csproj.CoreCompileInputs.cache
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.exe
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.pdb
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.PmuParier.resources
+C:\Users\Chalman\Source\Repos\pmu\pmu\obj\Debug\pmu.ResultatCourse.resources
